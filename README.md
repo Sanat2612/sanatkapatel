@@ -1,4 +1,3 @@
-# sanatkapatel
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ef7,7c5cfc&height=200&section=header&text=Sanat%20Kapatel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20Developer&descAlignY=60&descSize=20" width="100%"/>
@@ -17,7 +16,7 @@
 
 ## 👋 About Me
 
-```java
+java
 public class SanatKapatel {
 
     String name        = "Sanat Kapatel";
@@ -38,7 +37,7 @@ public class SanatKapatel {
 
     String funFact = "I reduced a codebase by 30% using React Hooks 🎯";
 }
-```
+
 
 ---
 
