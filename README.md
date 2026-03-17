@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-java
+```java
 public class SanatKapatel {
 
     String name        = "Sanat Kapatel";
@@ -37,7 +37,7 @@ public class SanatKapatel {
 
     String funFact = "I reduced a codebase by 30% using React Hooks 🎯";
 }
-
+```
 
 ---
 
