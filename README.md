@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanatkapatel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanat-kapatel-87a2b6304)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelsanat2612@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4f8ef7?style=for-the-badge&logo=firefox&logoColor=white)](https://sanatkapatel.dev)
 
@@ -117,15 +117,15 @@ public class SanatKapatel {
 
 <div align="center">
 
-![Sanat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanatkapatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sanat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanat2612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanatkapatel&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanat2612&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanatkapatel&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sanat2612&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -146,7 +146,7 @@ public class SanatKapatel {
 💬 I'm open to **full-time roles**, **freelance projects**, and **collaborations**.
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelsanat2612@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanatkapatel)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanat-kapatel-87a2b6304)
 
 </div>
 
